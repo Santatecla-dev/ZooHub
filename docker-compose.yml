@@ -1,0 +1,21 @@
+services:
+  db:
+    image: postgres:16-alpine
+    container_name: zoohub-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: zoohub
+      POSTGRES_USER: zoohub
+      POSTGRES_PASSWORD: zoohub_dev
+    ports:
+      - "55432:5432"
+    volumes:
+      - zoohub_postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U zoohub -d zoohub"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+volumes:
+  zoohub_postgres_data:
