@@ -2,6 +2,12 @@
 
 Visual social network for nature photographers, built with React, TypeScript, Express and PostgreSQL.
 
+## Project structure
+
+- `frontend/` contains the React/Vite application.
+- `backend/` contains the Express API, database initialization and migrations.
+- Root scripts orchestrate both sides so the project can still be started from `C:\ZooHub`.
+
 ## Features
 
 - Accounts with user ID, display name, email, password and description.

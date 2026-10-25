@@ -1,0 +1,72 @@
+[
+  {
+    "file": "lion-yawning.jpg",
+    "title": "Lion yawning",
+    "location": ["Kenya"],
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Lion_Yawning.jpg"
+  },
+  {
+    "file": "african-elephant.jpg",
+    "title": "African elephant",
+    "location": ["South Africa"],
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:African_Elephant_(15730348761).jpg"
+  },
+  {
+    "file": "fox.jpg",
+    "title": "Fox",
+    "location": ["United States"],
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Fox_(7b2d2e7a7f82431bb59cad924c13ed81).JPG"
+  },
+  {
+    "file": "arctic-fox.jpg",
+    "title": "Arctic fox",
+    "location": ["Canada"],
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Arctic_Fox_001.jpg"
+  },
+  {
+    "file": "giraffe.jpg",
+    "title": "Giraffe in Mikumi",
+    "location": ["Tanzania"],
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Single_Giraffe_in_Mikumi_National_Park.jpg"
+  },
+  {
+    "file": "barn-owl.jpg",
+    "title": "Barn owl",
+    "location": ["United Kingdom"],
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Barn_owl_arp.jpg"
+  },
+  {
+    "file": "penguin.jpg",
+    "title": "Penguin",
+    "location": ["Antarctica"],
+    "license": "CC0 1.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A_penguin.jpg"
+  },
+  {
+    "file": "tiger.jpg",
+    "title": "Sumatran tiger",
+    "location": ["Indonesia"],
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:STiger.jpg"
+  },
+  {
+    "file": "brown-bear.jpg",
+    "title": "Brown bear",
+    "location": ["United States"],
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Brown_bear_at_rivers_edge.jpg"
+  },
+  {
+    "file": "zebra.jpg",
+    "title": "Zebras",
+    "location": ["Namibia"],
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Zebras.JPG"
+  }
+]
